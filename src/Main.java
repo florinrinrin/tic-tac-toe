@@ -15,5 +15,9 @@ public class Main {
 
         System.out.printf("%nRound Two:%nX O X%nO X O%nX X O%n");
 
+        int a = 12;
+        int b = 2;
+
+        double result = Math.pow(a,b);
     }
 }
